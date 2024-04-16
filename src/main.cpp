@@ -11,6 +11,6 @@ auto main(int argc, char *argv[]) -> int{
   std::vector<std::string> tokens = smpl::parse(smpl::load(argv[1]));
 
   for(auto& token : tokens){
-    std::cout << token << std::endl;
+    // std::cout << token << std::endl;
   }
 }

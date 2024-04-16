@@ -3,7 +3,7 @@
 
 build:
 	cmake -B build -S .
-	cd build && make
+	cmake --build build -j
 
 clean:
 	rm -rf build
