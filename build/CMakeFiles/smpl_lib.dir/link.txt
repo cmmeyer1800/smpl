@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsmpl_lib.a CMakeFiles/smpl_lib.dir/src/smpl.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsmpl_lib.a
